@@ -1,12 +1,12 @@
 # Team-Profile-Generator
-
 # Table of contents
 1. [Description](#description)
 2. [Installation](#installation)
 3. [Usage](#usage)
-4. [Contributors](#contributor)
-5. [License](#license)
-6. [Questions](#questions)
+4. [Video](#video)
+5. [Contributors](#contributor)
+6. [License](#license)
+7. [Questions](#questions)
 
 ## Description
 ```
@@ -25,6 +25,10 @@ Inquirer, and Jest
 2. node index.js
 3. answer teams information questions
 4. create HTML containing all team meaber information
+
+## Video
+
+[Video Showing Use](https://drive.google.com/file/d/1DsOlkHnmtGmTrkljuZFj_6jZKzRaQwj4/view)
 
 ## Contributor
 
