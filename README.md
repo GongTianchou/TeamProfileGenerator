@@ -4,10 +4,9 @@
 1. [Description](#description)
 2. [Installation](#installation)
 3. [Usage](#usage)
-4. 
-5. [Contributors](#contributor)
-6. [License](#license)
-7. [Questions](#questions)
+4. [Contributors](#contributor)
+5. [License](#license)
+6. [Questions](#questions)
 
 ## Description
 ```
