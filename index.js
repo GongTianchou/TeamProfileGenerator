@@ -106,7 +106,7 @@ const addEmployee = () => {
 
 
 const writeFile = data => {
-    fs.writeFile('./scr/sample/index.html', data, err => {
+    fs.writeFile('./src/sample/index.html', data, err => {
         console.log(data),
             err ? console.log(err) : console.log("Successfully create team data HTML page.")
     })
